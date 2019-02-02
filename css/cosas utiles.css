@@ -1,0 +1,21 @@
+cosas utiles
+
+hacer gris al hover
+
+.portada:hover{
+	filter: grayscale(80%);
+	transition: 200ms;
+}
+
+
+
+smooth scrolling: https://css-tricks.com/snippets/jquery/smooth-scrolling/
+
+
+
+
+ideas:
+
+	1. greyscaale hover gallery
+
+	2. galeria https://www.steffenallen.com/
